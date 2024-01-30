@@ -12,3 +12,5 @@ Contact Form: A contact section with a form allowing users to submit queries, in
 Stay in the Loop: A section encouraging users to stay updated with the latest information and a button to register for updates.
 Modal: A modal window for users to input their email address for updates.
 Sidebar: An off-canvas sidebar that provides information about the author's other publications.
+ <br>
+ Link: https://redraven001.github.io/Bootstrap_project/
